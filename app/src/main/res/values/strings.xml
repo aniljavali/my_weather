@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Cities</string>
+    <string name="second_fragment_label">Forecast</string>
+    <string name="city_weather">%1$s Weather</string>
+    <string name="icon_url">https://openweathermap.org/img/w/%1$s.png</string>
+    <string name="degree_f">%1$d°F</string>
+</resources>
